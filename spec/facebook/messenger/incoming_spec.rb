@@ -55,7 +55,8 @@ describe Facebook::Messenger::Incoming do
             'is_echo' => true,
             'mid' => 'mid.1457764197618:41d102a3e1ae206a38',
             'seq' => 73,
-            'text' => 'Hello, bot!'
+            'text' => 'Hello, bot!',
+            'metadata' => 'metadata'
           }
         }
       end
