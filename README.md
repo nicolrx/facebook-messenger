@@ -467,6 +467,8 @@ support bots with, well, Facebook Messenger.
 
 * [Botamp](https://botamp.com) is the all-in-one solution for Marketing Automation via messaging apps.
 
+* [Botletter](https://www.botletter.com) is a solution to send newsletters via Facebook Messenger.
+
 ## Hyper loves you
 
 [Hyper] made this. We're a bunch of folks who love building things. You should
